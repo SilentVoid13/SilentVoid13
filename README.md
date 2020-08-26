@@ -1,5 +1,5 @@
 <p align="center">
-    SilentVoid - Just a guy enjoying CyberSecurity
+    SilentVoid - Just a guy enjoying Infosec / Cybersecurity
 </p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"/>
@@ -12,3 +12,4 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=silentvoid13&show_icons=true" alt="mysql"/>
 </p>
+
