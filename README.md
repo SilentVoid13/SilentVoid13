@@ -6,11 +6,11 @@ This is the place where I share what I build and break, where I have fun.
 
 - Obsidian
     - [Templater](https://github.com/SilentVoid13/Templater) - Template plugin for obsidian
-    - [Chesser](A chess plugin for obsidian) - Chess plugin for obsidian
+    - [Chesser](https://github.com/SilentVoid13/Chesser) - Chess plugin for obsidian
     - [rusty_engine](https://github.com/SilentVoid13/rusty_engine) - Javascript templating engine in WASM, developed for [Templater](https://github.com/SilentVoid13/Templater)
 - Infosec
     - [Silent_Pass](https://github.com/SilentVoid13/Silent_Pass) - Cross-platform password harvester for known softwares
-    - [Silent_Packer](https://github.com/SilentVoid13/Silent_Pass) - ELF / PE packer
+    - [Silent_Packer](https://github.com/SilentVoid13/Silent_Packer) - ELF / PE packer
     - [CVE-2018-8097](https://github.com/SilentVoid13/CVE-2018-8097) - CVE-2018-8097 PoC
 - Algorithmics
     - [telos](https://github.com/SilentVoid13/telos) - Personal collection of common algorithms
