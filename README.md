@@ -11,7 +11,7 @@ This is the place where I share what I build and break, where I have fun.
 - Infosec
     - [Silent_Pass](https://github.com/SilentVoid13/Silent_Pass) - Cross-platform password harvester for known softwares
     - [Silent_Packer](https://github.com/SilentVoid13/Silent_Packer) - ELF / PE packer
-    - [CVE-2018-8097](https://github.com/SilentVoid13/CVE-2018-8097) - CVE-2018-8097 PoC
+    - [CVE-2018-8097](https://github.com/SilentVoid13/CVE-2018-8097) - PoC
 - Algorithmics
     - [telos](https://github.com/SilentVoid13/telos) - Personal collection of common algorithms
     - [aoc2022](https://github.com/SilentVoid13/aoc2022) - Advent Of Code 2022, in Rust
