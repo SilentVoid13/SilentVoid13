@@ -17,7 +17,7 @@ This is the place where I share what I build and break, where I have fun.
     - [aoc2022](https://github.com/SilentVoid13/aoc2022) - Advent Of Code 2022, in Rust
     - [aoc2023](https://github.com/SilentVoid13/aoc2023) - Advent Of Code 2023, in Rust
 - System Configuration
-    - [.dotfiles_nix](https://github.com/SilentVoid13/.dotfiles_nix) - Personal NixOS configuration
+    - [.nix_config](https://github.com/SilentVoid13/.nix_config) - Personal Nix configuration
 - Misc
     - [YAC8E](https://github.com/SilentVoid13/YAC8E) - Yet Another CHIP-8 Emulator
     - [McqConverter](https://github.com/SilentVoid13/McqConverter) - Conversion application for MCQ formats (AMC, GIFT)
