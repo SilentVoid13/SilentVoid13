@@ -16,11 +16,13 @@ This is the place where I share what I build and break, where I have fun.
     - [telos](https://github.com/SilentVoid13/telos) - Personal collection of common algorithms
     - [aoc2022](https://github.com/SilentVoid13/aoc2022) - Advent Of Code 2022, in Rust
     - [aoc2023](https://github.com/SilentVoid13/aoc2023) - Advent Of Code 2023, in Rust
+- CLI Tools
+    - [SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify) synchronization tool
+    - [McqConverter](https://github.com/SilentVoid13/McqConverter) - Multiple choice questions format conversion tool (AMC, GIFT)
 - System Configuration
     - [.nix_config](https://github.com/SilentVoid13/.nix_config) - Personal Nix configuration
 - Misc
     - [YAC8E](https://github.com/SilentVoid13/YAC8E) - Yet Another CHIP-8 Emulator
-    - [McqConverter](https://github.com/SilentVoid13/McqConverter) - Conversion application for MCQ formats (AMC, GIFT)
     - [Silent_Log](https://github.com/SilentVoid13/Silent_Log) - C logging library
     - [esbuild-plugin-toml](https://github.com/SilentVoid13/esbuild-plugin-toml) - ESBuild plugin to import TOML files
 
