@@ -18,6 +18,7 @@ This is the place where I share what I build and break, where I have fun.
     - [aoc2023](https://github.com/SilentVoid13/aoc2023) - Advent Of Code 2023, in Rust
 - CLI Tools
     - [SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify) synchronization tool
+    - [critique.rs](https://github.com/SilentVoid13/critique.rs) - Collection of tools for SensCritique
     - [McqConverter](https://github.com/SilentVoid13/McqConverter) - Multiple choice questions format conversion tool (AMC, GIFT)
 - System Configuration
     - [.nix_config](https://github.com/SilentVoid13/.nix_config) - Personal Nix configuration
