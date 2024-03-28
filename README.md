@@ -30,5 +30,6 @@ This is the place where I share what I build and break, where I have fun.
 <details>
 <summary>⚡️ Very useless stats</summary>
 
-<img src="https://github-readme-stats.vercel.app/api?username=silentvoid13&show_icons=true&count_private=true&theme=tokyonight" alt="mysql"/>
+<img src="https://github-readme-stats.vercel.app/api?username=silentvoid13&show_icons=true&count_private=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentvoid13&theme=tokyonight">
 </details>
