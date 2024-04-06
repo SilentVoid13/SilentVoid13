@@ -12,11 +12,12 @@ This is the place where I share what I build and break, where I have fun.
     - [Silent_Pass](https://github.com/SilentVoid13/Silent_Pass) - Cross-platform password harvester for known softwares
     - [Silent_Packer](https://github.com/SilentVoid13/Silent_Packer) - ELF / PE packer
     - [CVE-2018-8097](https://github.com/SilentVoid13/CVE-2018-8097) - PoC
-- Algorithmics
-    - [telos](https://github.com/SilentVoid13/telos) - Personal collection of common algorithms
+- Algorithmic
+    - [telos](https://github.com/SilentVoid13/telos) - Implementation of common algorithms and data structures
     - [aoc2022](https://github.com/SilentVoid13/aoc2022) - Advent Of Code 2022, in Rust
     - [aoc2023](https://github.com/SilentVoid13/aoc2023) - Advent Of Code 2023, in Rust
-- CLI Tools
+- Tools
+    - [sov](https://github.com/SilentVoid13/sov) - Text-editor agnostic tool for personal knowledge management
     - [SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify) synchronization tool
     - [critique.rs](https://github.com/SilentVoid13/critique.rs) - Collection of tools for SensCritique
     - [McqConverter](https://github.com/SilentVoid13/McqConverter) - Multiple choice questions format conversion tool (AMC, GIFT)
