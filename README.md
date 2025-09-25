@@ -16,6 +16,7 @@ This is the place where I share what I build and break, where I have fun.
     - [telos](https://github.com/SilentVoid13/telos) - Implementation of common algorithms and data structures
     - [aoc2022](https://github.com/SilentVoid13/aoc2022) - Advent Of Code 2022, in Rust
     - [aoc2023](https://github.com/SilentVoid13/aoc2023) - Advent Of Code 2023, in Rust
+    - [aoc2024](https://github.com/SilentVoid13/aoc2024) - Advent Of Code 2024, in Rust
 - Tools
     - [sov](https://github.com/SilentVoid13/sov) - Text-editor agnostic tool for personal knowledge management
     - [SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify) synchronization tool
